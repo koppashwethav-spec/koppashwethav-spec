@@ -1,39 +1,36 @@
-<h1 align="center">Hi 👋, I'm Shwetha V</h1>
-<h3 align="center">Aspiring Java Full Stack Developer 🚀</h3>
+<h1 align="center">Hey 👋 I'm Shwetha V</h1>
 
 <p align="center">
-B.E Graduate in Artificial Intelligence & Machine Learning
+🎓 AI & ML Graduate <br>
+💻 Aspiring Java Full Stack Developer <br>
+🌱 Passionate about Web Development
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
-✨ Passionate about Full Stack Development  
-🌱 Currently learning Spring Boot & React  
-💡 Interested in building modern web applications  
-🚀 Exploring Java Backend Technologies  
+✨ Enthusiastic and self-motivated developer  
+✨ Love building clean and responsive websites  
+✨ Interested in Java Backend & Full Stack Development  
+✨ Always learning new technologies  
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,spring,hibernate,html,css,js,react,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tools I Use
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-
+☕ Eclipse IDE &nbsp;&nbsp; • &nbsp;&nbsp;
+💻 VS Code &nbsp;&nbsp; • &nbsp;&nbsp;
+🐙 GitHub
 </p>
 
 ---
@@ -41,13 +38,13 @@ B.E Graduate in Artificial Intelligence & Machine Learning
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/shwethav2004" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<a href="https://linkedin.com/in/shwethav2004">
+<img src="https://img.shields.io/badge/LinkedIn-Shwetha_V-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 ---
 
 <p align="center">
-✨ <b>"Keep Learning • Keep Building • Keep Growing"</b> ✨
+✨ <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
 </p>
