@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shwetha%20V&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Graduate&descAlignY=58&descSize=18&descColor=a78bfa"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🚀+Java+Full+Stack+Developer;☕+Spring+Boot+%7C+REST+API+%7C+Hibernate;🤖+AI+%26+ML+Enthusiast;🌐+Building+Real-World+Web+Apps;📄+Research+Paper+Published+%40+AIT+Tumkur;💡+Open+to+Software+Opportunities+in+Bangalore" />
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/shwethav2004">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,15 +18,10 @@
     <img src="https://img.shields.io/badge/🏆_GitHub-Achievements-FFD700?style=for-the-badge"/>
   </a>
 </p>
-
 <br/>
 
----
-
-## 🙋‍♀️ About Me
-
-```java
-public class ShwethaV {
+🙋‍♀️ About Me
+javapublic class ShwethaV {
 
     String name        = "Shwetha V";
     String location    = "Bangalore, Karnataka 🇮🇳";
@@ -41,21 +34,16 @@ public class ShwethaV {
     String status      = "👀 Open to Software Engineer / Java Developer roles in Bangalore";
     String superpower  = "Turning ideas into deployed, working applications 🚀";
 }
-```
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
+🛠️ Tech Stack
+💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-### 🚀 Frameworks & Backend
+🚀 Frameworks & Backend
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -63,21 +51,18 @@ public class ShwethaV {
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
-
-### 🌐 Frontend
+🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
-### 🗄️ Databases
+🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-### 🔧 Tools & Platforms
+🔧 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
@@ -87,10 +72,7 @@ public class ShwethaV {
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <table>
   <tr>
     <td width="50%">
@@ -143,49 +125,29 @@ public class ShwethaV {
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koppashwethav-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=koppashwethav-spec&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koppashwethav-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="40%"/>
 </p>
 
----
+🏆 Achievements & Highlights
+🎯Achievement📄Research paper accepted for publication at AIT, Tumkur🏅Represented college at National Level Intercollegiate Project Exhibition💼Completed Java Full Stack Internship at Besant Technologies, Bengaluru🌐Built & deployed live full-stack application on Render.com🎓B.E. AI & ML — CGPA 8.35 / 10
 
-## 🏆 Achievements & Highlights
-
-| 🎯 | Achievement |
-|---|---|
-| 📄 | Research paper accepted for publication at **AIT, Tumkur** |
-| 🏅 | Represented college at **National Level Intercollegiate Project Exhibition** |
-| 💼 | Completed **Java Full Stack Internship** at Besant Technologies, Bengaluru |
-| 🌐 | Built & deployed **live full-stack application** on Render.com |
-| 🎓 | B.E. AI & ML — **CGPA 8.35 / 10** |
-
----
-
-## 📈 Contribution Graph
-
+📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=koppashwethav-spec&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koppashwethav-spec&color=a78bfa&style=for-the-badge&label=Profile+Views"/>
 </p>
-
 <p align="center">
   <b>💡 Keep Learning • Keep Building • Keep Growing 🚀</b><br/>
   <i>⭐ Thanks for visiting! Feel free to connect 😊</i>
