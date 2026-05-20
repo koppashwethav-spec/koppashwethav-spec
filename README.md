@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-✨ Passionate Java Full Stack Developer
-✨ Focused on building real-world scalable web applications
-✨ Strong interest in Backend Development & System Design basics
-✨ Love clean UI and efficient backend logic
-✨ Always improving and learning new technologies
+- 👩‍💻 I am Shwetha, a passionate Java Full Stack Developer
+- 🌐 I focus on building real-world scalable web applications
+- ⚙️ I have strong interest in Backend Development & System Design basics
+- 🎨 I love clean UI and efficient backend logic
+- 📚 I am always improving and learning new technologies
 
 ---
 
@@ -43,8 +43,8 @@
 
 ## 📌 Featured Projects
 
-🔹 **ShopKart** – Flipkart-style full-stack e-commerce web app (Spring Boot + PostgreSQL)
-🔹 **Expense Tracker** – Java Full Stack Student Expense Tracker System
+- 🛒 **ShopKart** – Flipkart-style full-stack e-commerce web app (Spring Boot + PostgreSQL)
+- 💰 **Expense Tracker** – Java Full Stack Student Expense Tracker System
 
 ---
 
