@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-👩‍💻 Hi, I am Shwetha V — a passionate Java Full Stack Developer
-🌐 I focus on building real-world projects
-⚙️ I have strong interest in Software Development
+👩‍💻 Hi, I am Shwetha V — a passionate Java Full Stack Developer <br/>
+🌐 I focus on building real-world projects <br/>
+⚙️ I have strong interest in Software Development <br/>
 📚 I am always improving and learning new technologies
 
 ---
