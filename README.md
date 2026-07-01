@@ -3,25 +3,38 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F2FE&center=true&vCenter=true&width=600&lines=BE+AI+%26+ML+Graduate;Java+Full+Stack+Developer;Web+Development+Enthu[...]
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F2FE&center=true&vCenter=true&width=600&lines=BE+AI+%26+ML+Graduate;Java+Full+Stack+Developer;Web+Development+Enthusiast"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-👩‍💻 Hi, I am Shwetha V — a passionate Java Full Stack Developer <br/>
-🌐 I focus on building real-world projects <br/>
-⚙️ I have strong interest in Software Development <br/>
-📚 I am always improving and learning new technologies
+👩‍💻 Hi, I am **Shwetha V** — a passionate Java Full Stack Developer with a strong foundation in AI & ML.<br/>
+
+I am a **BE AI & ML Graduate** dedicated to building scalable, user-centric applications. With expertise in backend development using Spring Boot and modern frontend technologies, I create comprehensive solutions from concept to deployment.
+
+**What I Do:**
+- 🌐 Design and develop full-stack web applications
+- 🔧 Build RESTful APIs and microservices
+- 💾 Work with relational databases (MySQL, PostgreSQL)
+- 🎨 Create responsive and intuitive user interfaces
+- 📚 Continuously learn and adapt to new technologies
+
+**My Passion:**
+I am driven by the opportunity to solve real-world problems through code. I focus on writing clean, maintainable code and following best practices in software development. I believe in continuous learning and staying updated with industry trends.
+
+**Current Focus:**
+- Mastering Full-Stack Development with Java & Spring Boot
+- Exploring C# and .NET ecosystem
+- API testing and integration using Postman
+- Building production-ready applications
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-
-
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
