@@ -3,29 +3,39 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F2FE&center=true&vCenter=true&width=700&lines=BE+AI+%26+ML+Graduate;Java+Full+Stack+Developer;Web+Development+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F2FE&center=true&vCenter=true&width=750&lines=BE+AI+%26+ML+Graduate;Java+Developer;Learning+Cybersecurity;Kali+Linux+%7C+Wireshark+%7C+SQL"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-👋 Hi — I’m **Shwetha V** (koppashwethav-spec). I’m a BE graduate in Artificial Intelligence & Machine Learning and a passionate Java Full Stack Developer.
+👋 Hi, I'm **Shwetha V** (**koppashwethav-spec**).
 
-I enjoy building scalable, user-centric applications using Spring Boot for the backend and modern technologies for the frontend. I focus on writing clean, maintainable code and learning continuously.
+🎓 BE Graduate in Artificial Intelligence & Machine Learning with a strong interest in **Java Development** and **Cybersecurity**.
 
-What I do:
-- 🌐 Design and develop full-stack web applications
-- 🔧 Build RESTful APIs and microservices (Spring Boot)
-- 💾 Work with relational databases (MySQL, PostgreSQL)
-- 🎨 Create responsive and intuitive user interfaces
-- 📚 Apply ML concepts to practical problems and research
+I enjoy building Java applications, solving technical challenges, and learning cybersecurity through hands-on practice. I believe in continuous learning and improving my skills by working on real-world projects.
 
-Current focus:
-- Mastering Java & Spring Boot
-- Exploring C# and the .NET ecosystem
-- API testing and integration using Postman
-- Building production-ready applications and DevOps basics
+### 💼 What I Do
+
+- ☕ Develop Java applications
+- 🌱 Build REST APIs using Spring Boot
+- 💾 Work with SQL & MySQL databases
+- 🌐 Create responsive web applications
+- 🔒 Learn Cybersecurity with practical labs and tools
+
+### 🌱 Currently Learning
+
+- Java & Spring Boot
+- Cybersecurity Fundamentals
+- Kali Linux
+- Wireshark
+- Networking Basics
+- Git & GitHub
+
+### 🎯 Career Goal
+
+To begin my career as a **Java Developer** while growing into a skilled **Cybersecurity Professional**.
 
 ---
 
@@ -33,14 +43,12 @@ Current focus:
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=api&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </p>
 
@@ -49,25 +57,26 @@ Current focus:
 ## 🛠 Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-- 🛒 **ShopKart** – Flipkart-style full-stack e-commerce web app (Spring Boot + PostgreSQL). Repository: https://github.com/koppashwethav-spec (add project link here)
-- 💰 **Expense Tracker** – Java Full Stack Student Expense Tracker System. Repository: https://github.com/koppashwethav-spec (add project link here)
-- 🛡 **Cyber Hacking Breaches Prediction & Detection** – ML project for predicting cyber attacks (add repo/link)
-
-(If you want, I can add direct repo links and short tech descriptions for each project.)
+- 🛒 **ShopKart** – Full Stack E-Commerce Application using Spring Boot & PostgreSQL
+- 💰 **Expense Tracker** – Java Full Stack Student Expense Tracker
+- 🛡 **Cyber Hacking Breaches Prediction & Detection** – Machine Learning Project
+- 📚 **DSA Journey** – Java Data Structures & Algorithms Practice Repository
 
 ---
 
@@ -86,15 +95,23 @@ Current focus:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:koppashwethav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/shwethav2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/koppashwethav">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
+
+<a href="mailto:koppashwethav@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shwethav2004">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/koppashwethav-spec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/koppashwethav">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -102,11 +119,15 @@ Current focus:
 ## ✨ Quote
 
 <p align="center">
-💡 Keep Learning • Keep Building • Keep Growing 🚀
+
+💡 **Code • Learn • Secure • Grow 🚀**
+
 </p>
 
 ---
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile!
+
 </p>
