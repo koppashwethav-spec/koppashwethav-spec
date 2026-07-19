@@ -21,8 +21,8 @@ I enjoy building Java applications, solving technical challenges, and learning c
 - ☕ Develop Java applications
 - 🌱 Build REST APIs using Spring Boot
 - 💾 Work with SQL & MySQL databases
-- 🌐 Create responsive web applications
 - 🔒 Learn Cybersecurity with practical labs and tools
+- 📚 Continuously improve my problem-solving skills
 
 ### 🌱 Currently Learning
 
@@ -44,8 +44,11 @@ To begin my career as a **Java Developer** while growing into a skilled **Cybers
 <p align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -66,6 +69,7 @@ To begin my career as a **Java Developer** while growing into a skilled **Cybers
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 </p>
 
@@ -73,10 +77,17 @@ To begin my career as a **Java Developer** while growing into a skilled **Cybers
 
 ## 📌 Featured Projects
 
-- 🛒 **ShopKart** – Full Stack E-Commerce Application using Spring Boot & PostgreSQL
-- 💰 **Expense Tracker** – Java Full Stack Student Expense Tracker
-- 🛡 **Cyber Hacking Breaches Prediction & Detection** – Machine Learning Project
-- 📚 **DSA Journey** – Java Data Structures & Algorithms Practice Repository
+### 🛒 ShopKart
+A full-stack e-commerce web application developed using **Spring Boot** and **PostgreSQL**, featuring product management, authentication, and REST APIs.
+
+### 💰 Expense Tracker
+A Java Full Stack application for tracking daily expenses with secure data management and database integration.
+
+### 🛡 Cyber Hacking Breaches Prediction & Detection
+A Machine Learning project that predicts and detects cyber attacks using classification algorithms.
+
+### 📚 DSA Journey
+A collection of Java Data Structures and Algorithms problems with optimized solutions and daily practice.
 
 ---
 
@@ -87,6 +98,8 @@ To begin my career as a **Java Developer** while growing into a skilled **Cybers
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=koppashwethav-spec&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=koppashwethav-spec&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koppashwethav-spec&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -128,6 +141,7 @@ To begin my career as a **Java Developer** while growing into a skilled **Cybers
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! <br>
+Let's connect and build amazing things together.
 
 </p>
