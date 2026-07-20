@@ -91,20 +91,6 @@ A collection of Java Data Structures and Algorithms problems with optimized solu
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=koppashwethav-spec&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=koppashwethav-spec&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koppashwethav-spec&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
